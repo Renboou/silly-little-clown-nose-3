@@ -1,0 +1,38 @@
+h3
+{
+font-size: 25px !important;
+}
+
+.btn-warning:hover
+{
+background-color: rgb(91, 195, 243);
+}
+.btn-info:hover
+{
+background-color: rgb(238, 186, 74);
+
+}
+canvas{
+animation-name: coolanimation;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+}
+@keyframes coolanimation{
+
+from{box-shadow: 1px 1px 38px rgb(238, 186, 74);}
+to{box-shadow: 1px 1px 38px rgb(91, 195, 243);}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
